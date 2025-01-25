@@ -38,7 +38,7 @@ Here is a link for a diverse dataset you could use to test the program: https://
 - Muhammad Nasser
 
 ## 🧾 License
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/Jiro75/Brain-Viewer/blob/43c15e42a9aafc12035254abe77d74a6714705e3/LICENSE)) for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Jiro75/Yolo-Tracker/blob/88213e57aed8dddef7cd29e1c519e7247958e2b6/LICENSE) for details.
 
 ## 📞 Contact
 Email: Mostafahany4705@gmail.com <br>
